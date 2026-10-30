@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: ai-fullstack-guide
+  structure:
+    - type: space
+      key: space-1
+      title: AI 全栈开发指南
+      path: ai-quan-zhan-kai-fa-zhi-nan
+      default: true
+      content:
+        directory: ./ai-fullstack-guide
