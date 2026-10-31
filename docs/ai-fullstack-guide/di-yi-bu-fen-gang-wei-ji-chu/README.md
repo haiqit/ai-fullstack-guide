@@ -20,11 +20,11 @@ flowchart LR
 
 如果你是后端转全栈，建议先把产品这条线读完——它讲的每个决策，最后都会变成你的表结构、接口和状态机：
 
-* [先破一个误解：产品岗不是「画原型、写文档」](chan-pin/xian-po-yi-ge-wu-jie-chan-pin-gang-bu-shi-hua-yuan-xing-xie-wen-dang.md)
-* [产品岗的知识内核：六个模块](chan-pin/chan-pin-gang-de-zhi-shi-nei-he-liu-ge-mo-kuai.md)
-* [选型维度表：每个业务方案背后的技术账](chan-pin/xuan-xing-wei-du-biao-mei-ge-ye-wu-fang-an-bei-hou-de-ji-shu-zhang.md)
-* [产品决策 → 技术后果：一张能当 checklist 用的映射表](chan-pin/chan-pin-jue-ce-ji-shu-hou-guo-yi-zhang-neng-dang-checklist-yong-de-ying-she-biao.md)
-* [产品岗的通用坑](chan-pin/chan-pin-gang-de-tong-yong-keng.md)
+* [先破一个误解：产品岗不是「画原型、写文档」](chan-pin/chan-pin-gang-bu-shi-hua-yuan-xing-xie-wen-dang.md)
+* [产品岗的知识内核：六个模块](chan-pin/chan-pin-gang-de-liu-ge-zhi-shi-mo-kuai.md)
+* [选型维度表：每个业务方案背后的技术账](chan-pin/xuan-xing-wei-du-biao-mei-ge-fang-an-bei-hou-de-ji-shu-zhang.md)
+* [产品决策 → 技术后果：一张能当 checklist 用的映射表](chan-pin/chan-pin-jue-ce-ji-shu-hou-guo-yi-zhang-checklist.md)
+* [产品岗的通用坑](chan-pin/chan-pin-gang-de-qi-ge-tong-yong-keng.md)
 * [提问模板：把问题问透](chan-pin/ti-wen-mu-ban-ba-wen-ti-wen-tou.md)
 
 ## 看每个岗位时，问三个问题 ❓
