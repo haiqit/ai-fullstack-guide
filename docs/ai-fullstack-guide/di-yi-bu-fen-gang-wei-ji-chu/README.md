@@ -14,9 +14,9 @@ flowchart LR
 
 ## 本部分包含
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>📋</h3></td><td><strong>产品</strong></td><td>需求优先级、用户故事与验收、状态机、B/C 端差异、商业化与合规。六个子页可以单独读。</td><td><a href="chan-pin/">chan-pin</a></td></tr><tr><td><h3>🎨</h3></td><td><strong>UI</strong></td><td>信息架构、栅格与 token、组件与设计系统、五态、断点、交付验收。七个模块，外带选型表和映射表。</td><td><a href="ui/">ui</a></td></tr><tr><td><h3>🖥️</h3></td><td><strong>前端</strong></td><td>选型七层、服务端 vs 客户端状态、数据请求层、表单、构建、类型、性能与部署。八个模块加选型表和映射表。</td><td><a href="qian-duan/">qian-duan</a></td></tr><tr><td><h3>⚙️</h3></td><td><strong>后端</strong></td><td>多租户隔离、并发正确性、幂等、状态机、缓存一致性、队列异步、可观测性、部署架构。八个模块加九张选型表和映射表。</td><td><a href="hou-duan/">hou-duan</a></td></tr><tr><td><h3>🛠️</h3></td><td><strong>运维</strong></td><td>部署、观测、成本、灰度；模型服务的运维和传统服务哪里不一样。</td><td><a href="yun-wei.md">yun-wei.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>📋</h3></td><td><strong>产品</strong></td><td>需求优先级、用户故事与验收、状态机、B/C 端差异、商业化与合规。六个子页可以单独读。</td><td><a href="chan-pin/">chan-pin</a></td></tr><tr><td><h3>🎨</h3></td><td><strong>UI</strong></td><td>信息架构、栅格与 token、组件与设计系统、五态、断点、交付验收。七个模块，外带选型表和映射表。</td><td><a href="ui/">ui</a></td></tr><tr><td><h3>🖥️</h3></td><td><strong>前端</strong></td><td>选型七层、服务端 vs 客户端状态、数据请求层、表单、构建、类型、性能与部署。八个模块加选型表和映射表。</td><td><a href="qian-duan/">qian-duan</a></td></tr><tr><td><h3>⚙️</h3></td><td><strong>后端</strong></td><td>多租户隔离、并发正确性、幂等、状态机、缓存一致性、队列异步、可观测性、部署架构。八个模块加九张选型表和映射表。</td><td><a href="hou-duan/">hou-duan</a></td></tr><tr><td><h3>🛠️</h3></td><td><strong>运维</strong></td><td>部署与发布、稳定性保障、基础设施与安全。八张选型表、映射表和十二个坑。</td><td><a href="yun-wei/">yun-wei</a></td></tr></tbody></table>
 
-## 已经能单独读的四条线 📖
+## 已经能单独读的五条线 📖
 
 **产品线**
 
@@ -53,6 +53,15 @@ flowchart LR
 * [后端决策 → 技术后果：映射表](hou-duan/hou-duan-jue-ce-ji-shu-hou-guo.md)
 * [后端岗的十二个通用坑](hou-duan/hou-duan-gang-de-shi-er-ge-keng.md)
 * [提问模板：架构、契约、验收](hou-duan/hou-duan-ti-wen-mu-ban.md)
+
+**运维线**
+
+* [运维不是「把服务跑起来」](yun-wei/yun-wei-bu-shi-ba-fu-wu-pao-qi-lai.md)
+* [运维岗的三个层次](yun-wei/yun-wei-gang-de-san-ge-ceng-ci.md)
+* [选型维度表：八张表](yun-wei/yun-wei-xuan-xing-biao.md)
+* [运维决策 → 技术后果：映射表](yun-wei/yun-wei-jue-ce-ji-shu-hou-guo.md)
+* [运维岗的十二个通用坑](yun-wei/yun-wei-gang-de-shi-er-ge-keng.md)
+* [提问模板：发布、观测、验收](yun-wei/yun-wei-ti-wen-mu-ban.md)
 
 ## 看每个岗位时，问三个问题 ❓
 
