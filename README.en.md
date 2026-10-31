@@ -11,11 +11,11 @@
 [![AI Full-Stack](https://img.shields.io/badge/AI-Full--Stack-2ea44f)](#)
 [![language](https://img.shields.io/badge/language-English-2ea44f)](#)
 [![GitHub stars](https://img.shields.io/github/stars/haiqit/ai-fullstack-guide?style=social)](https://github.com/haiqit/ai-fullstack-guide)
-[![Read online](https://img.shields.io/badge/Read%20Online-Visit-1f6feb)](https://github.com/haiqit/ai-fullstack-guide)
+[![Read online](https://img.shields.io/badge/Read%20Online-Visit-1f6feb)](https://haiqit.gitbook.io/ai-fullstack-guide)
 
-[Quick Start](#how-to-read) · [Outline](#table-of-contents) · [Changelog](https://github.com/haiqit/ai-fullstack-guide/commits/main) · [Community](https://github.com/haiqit/ai-fullstack-guide/issues)
+[Quick Start](#how-to-read) · [Outline](#table-of-contents) · [Changelog](https://github.com/haiqit/ai-fullstack-guide/commits/main)
 
-📚 **Read online** → [GitBook](https://github.com/haiqit/ai-fullstack-guide)
+📚 **Read online** → [https://haiqit.gitbook.io/ai-fullstack-guide](https://haiqit.gitbook.io/ai-fullstack-guide)
 
 </div>
 
@@ -78,7 +78,7 @@ Status: ✅ complete · 🚧 in progress.
 - 🚧 **Part 5 · Building**: process, new project, legacy project
 - 🚧 **Part 6 · Capstone**
 
-The manuscript lives in `docs/ai-fullstack-guide/` and is published through GitBook.
+The manuscript lives in `docs/ai-fullstack-guide/` and is published through GitBook — see the link at the top.
 
 ## How to read
 
