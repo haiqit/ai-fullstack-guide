@@ -1,8 +1,8 @@
 # Table of contents
 
-* [AI 全栈开发指南](README.md)
-* [第一部分 · 全景介绍](di-yi-bu-fen-quan-jing-jie-shao/README.md)
-  * [AI 全栈的能力地图](di-yi-bu-fen-quan-jing-jie-shao/ai-quan-zhan-de-neng-li-di-tu.md)
+* [AI 全栈开发指南 🧭](README.md)
+* [第一部分 · 全景介绍 🗺️](di-yi-bu-fen-quan-jing-jie-shao/README.md)
+  * [AI 全栈的能力地图 🗺️](di-yi-bu-fen-quan-jing-jie-shao/ai-quan-zhan-de-neng-li-di-tu.md)
 * [第二部分 · 岗位基础](di-er-bu-fen-gang-wei-ji-chu/README.md)
   * [产品](di-er-bu-fen-gang-wei-ji-chu/chan-pin/README.md)
     * [先破一个误解：产品岗不是「画原型、写文档」](di-er-bu-fen-gang-wei-ji-chu/chan-pin/xian-po-yi-ge-wu-jie-chan-pin-gang-bu-shi-hua-yuan-xing-xie-wen-dang.md)
