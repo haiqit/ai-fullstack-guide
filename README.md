@@ -1,6 +1,25 @@
-# AI 全栈开发指南
+<div align="center">
 
-一本写给工程师的开源 AI 全栈实战书。不追热点，只回答一个问题：**怎么把 AI 能力做成能上线、能运维、成本算得清的系统。**
+# 🚀 AI 全栈实战指南 · 从零到企业级落地
+
+<sub>ai-fullstack-guide</sub>
+
+**2026 持续更新中** · 目标是把 AI 能力从「跑通一个 Demo」推进到「一套能上线、能运维、成本算得清的系统」—— 系统教程 + 可运行的示例 + 面试视角 + 企业级项目，对齐「AI 应用开发工程师」的真实工作要求。
+
+**简体中文** · [English](./README.en.md)
+
+[![AI 全栈](https://img.shields.io/badge/AI-全栈-2ea44f)](#)
+[![language](https://img.shields.io/badge/language-Chinese-2ea44f)](#)
+[![GitHub stars](https://img.shields.io/github/stars/haiqit/ai-fullstack-guide?style=social)](https://github.com/haiqit/ai-fullstack-guide)
+[![在线阅读](https://img.shields.io/badge/在线阅读-点击访问-1f6feb)](https://github.com/haiqit/ai-fullstack-guide)
+
+[快速开始](#怎么读) · [教程大纲](#目录) · [更新日志](https://github.com/haiqit/ai-fullstack-guide/commits/main) · [加入社群](https://github.com/haiqit/ai-fullstack-guide/issues)
+
+📚 **在线阅读** → [GitBook](https://github.com/haiqit/ai-fullstack-guide)
+
+</div>
+
+---
 
 ## 这本书在讲什么
 
