@@ -3,10 +3,6 @@
       
 # 🚀 AI 全栈实战指南 · 从零到企业级落地
 
-<sub>ai-fullstack-guide</sub>
-
-**2026 持续更新中** · 目标是把 AI 能力从「跑通一个 Demo」推进到「一套能上线、能运维、成本算得清的系统」—— 系统教程 + 可运行的示例 + 面试视角 + 企业级项目，对齐「AI 应用开发工程师」的真实工作要求。
-
 **简体中文** · [English](./README.en.md)
 
 [![AI 全栈](https://img.shields.io/badge/AI-全栈-2ea44f)](#)
