@@ -1,4 +1,4 @@
-# AI 全栈开发指南 🧭
+# AI 全栈开发指南
 
 一本写给工程师的 AI 全栈实战书。不追热点，只回答一个问题：**怎么把 AI 能力做成能上线、能运维、成本算得清的系统。**
 
@@ -17,7 +17,7 @@
 
 ## 全书结构 🗂️
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🗺️</h3></td><td><strong>第一部分 · 全景介绍</strong></td><td>先把地图画清楚：一次请求到底经过哪几层。</td><td><a href="di-yi-bu-fen-quan-jing-jie-shao/">di-yi-bu-fen-quan-jing-jie-shao</a></td></tr><tr><td><h3>👥</h3></td><td><strong>第二部分 · 岗位基础</strong></td><td>产品、UI、前端、后端、运维，各自需要懂什么。</td><td><a href="di-er-bu-fen-gang-wei-ji-chu/">di-er-bu-fen-gang-wei-ji-chu</a></td></tr><tr><td><h3>🧪</h3></td><td><strong>第三部分 · 岗位实操</strong></td><td>按岗位动手：产品设计、UI、前端、后端、运维部署。</td><td><a href="di-san-bu-fen-gang-wei-shi-cao/">di-san-bu-fen-gang-wei-shi-cao</a></td></tr><tr><td><h3>🧰</h3></td><td><strong>第四部分 · 开发工具</strong></td><td>模型、IDE、MCP、Skills，怎么选、怎么用。</td><td><a href="di-si-bu-fen-kai-fa-gong-ju/">di-si-bu-fen-kai-fa-gong-ju</a></td></tr><tr><td><h3>🔁</h3></td><td><strong>第五部分 · 工作流</strong></td><td>Vibe Coding、SDD、Harness：人和 AI 怎么配合。</td><td><a href="di-wu-bu-fen-gong-zuo-liu/">di-wu-bu-fen-gong-zuo-liu</a></td></tr><tr><td><h3>🚀</h3></td><td><strong>第六部分 · 项目开发</strong></td><td>新项目从零起，老项目怎么接，一条流程走完。</td><td><a href="di-liu-bu-fen-xiang-mu-kai-fa/">di-liu-bu-fen-xiang-mu-kai-fa</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🗺️</h3></td><td><strong>第一部分 · 全景介绍</strong></td><td>先把地图画清楚：一次请求到底经过哪几层。</td><td><a href="/broken/pages/9MG5hjNgBNWv5WLlB5j9">Broken link</a></td></tr><tr><td><h3>👥</h3></td><td><strong>第二部分 · 岗位基础</strong></td><td>产品、UI、前端、后端、运维，各自需要懂什么。</td><td><a href="di-yi-bu-fen-gang-wei-ji-chu/">di-yi-bu-fen-gang-wei-ji-chu</a></td></tr><tr><td><h3>🧪</h3></td><td><strong>第三部分 · 岗位实操</strong></td><td>按岗位动手：产品设计、UI、前端、后端、运维部署。</td><td><a href="di-er-bu-fen-gang-wei-shi-cao/">di-er-bu-fen-gang-wei-shi-cao</a></td></tr><tr><td><h3>🧰</h3></td><td><strong>第四部分 · 开发工具</strong></td><td>模型、IDE、MCP、Skills，怎么选、怎么用。</td><td><a href="di-san-bu-fen-kai-fa-gong-ju/">di-san-bu-fen-kai-fa-gong-ju</a></td></tr><tr><td><h3>🔁</h3></td><td><strong>第五部分 · 工作流</strong></td><td>Vibe Coding、SDD、Harness：人和 AI 怎么配合。</td><td><a href="di-si-bu-fen-gong-zuo-liu/">di-si-bu-fen-gong-zuo-liu</a></td></tr><tr><td><h3>🚀</h3></td><td><strong>第六部分 · 项目开发</strong></td><td>新项目从零起，老项目怎么接，一条流程走完。</td><td><a href="di-wu-bu-fen-xiang-mu-kai-fa/">di-wu-bu-fen-xiang-mu-kai-fa</a></td></tr></tbody></table>
 
 一句话记住这六块：**先看地图（一），再补岗位（二、三），配上工具（四），跑通流程（五），最后落到项目（六）。**
 
@@ -55,10 +55,6 @@
 * 不把「理解原理」写成「亲手实践过」
 * 不把某个框架说成唯一正确答案
 {% endhint %}
-
-## 示例代码 💻
-
-代码以 Python 为主。凡是和传统后端习惯不一样的地方，会给一个 Go 的类比——作者的生产经验主要来自 Go 服务端，写 Python 时也一直在做这种对照。
 
 ## 许可 📄
 
