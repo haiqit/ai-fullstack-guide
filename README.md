@@ -1,5 +1,6 @@
 <div align="center">
 <img src="./images/banner.png" alt="AI 全栈实战指南" width="950px">
+      
 # 🚀 AI 全栈实战指南 · 从零到企业级落地
 
 <sub>ai-fullstack-guide</sub>
