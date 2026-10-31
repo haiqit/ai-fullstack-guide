@@ -14,9 +14,9 @@ flowchart LR
 
 ## 本部分包含
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>📋</h3></td><td><strong>产品</strong></td><td>需求优先级、用户故事与验收、状态机、B/C 端差异、商业化与合规。六个子页可以单独读。</td><td><a href="chan-pin/">chan-pin</a></td></tr><tr><td><h3>🎨</h3></td><td><strong>UI</strong></td><td>信息架构、栅格与 token、组件与设计系统、五态、断点、交付验收。七个模块，外带选型表和映射表。</td><td><a href="ui/">ui</a></td></tr><tr><td><h3>🖥️</h3></td><td><strong>前端</strong></td><td>选型七层、服务端 vs 客户端状态、数据请求层、表单、构建、类型、性能与部署。八个模块加选型表和映射表。</td><td><a href="qian-duan/">qian-duan</a></td></tr><tr><td><h3>⚙️</h3></td><td><strong>后端</strong></td><td>接口契约、数据模型、超时与降级、权限与多租户——AI 能力最后都落到这些工程问题上。</td><td><a href="hou-duan.md">hou-duan.md</a></td></tr><tr><td><h3>🛠️</h3></td><td><strong>运维</strong></td><td>部署、观测、成本、灰度；模型服务的运维和传统服务哪里不一样。</td><td><a href="yun-wei.md">yun-wei.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>📋</h3></td><td><strong>产品</strong></td><td>需求优先级、用户故事与验收、状态机、B/C 端差异、商业化与合规。六个子页可以单独读。</td><td><a href="chan-pin/">chan-pin</a></td></tr><tr><td><h3>🎨</h3></td><td><strong>UI</strong></td><td>信息架构、栅格与 token、组件与设计系统、五态、断点、交付验收。七个模块，外带选型表和映射表。</td><td><a href="ui/">ui</a></td></tr><tr><td><h3>🖥️</h3></td><td><strong>前端</strong></td><td>选型七层、服务端 vs 客户端状态、数据请求层、表单、构建、类型、性能与部署。八个模块加选型表和映射表。</td><td><a href="qian-duan/">qian-duan</a></td></tr><tr><td><h3>⚙️</h3></td><td><strong>后端</strong></td><td>多租户隔离、并发正确性、幂等、状态机、缓存一致性、队列异步、可观测性、部署架构。八个模块加九张选型表和映射表。</td><td><a href="hou-duan/">hou-duan</a></td></tr><tr><td><h3>🛠️</h3></td><td><strong>运维</strong></td><td>部署、观测、成本、灰度；模型服务的运维和传统服务哪里不一样。</td><td><a href="yun-wei.md">yun-wei.md</a></td></tr></tbody></table>
 
-## 已经能单独读的三条线 📖
+## 已经能单独读的四条线 📖
 
 **产品线**
 
@@ -44,6 +44,15 @@ flowchart LR
 * [前端决策 → 技术后果：映射表](qian-duan/qian-duan-jue-ce-ji-shu-hou-guo.md)
 * [前端岗的十二个通用坑](qian-duan/qian-duan-gang-de-shi-er-ge-keng.md)
 * [提问模板：选型、评审、验收](qian-duan/qian-duan-ti-wen-mu-ban.md)
+
+**后端线**
+
+* [后端选型不是「选个语言框架」](hou-duan/hou-duan-xuan-xing-bu-shi-xuan-ge-yu-yan-kuang-jia.md)
+* [后端岗的八个模块](hou-duan/hou-duan-gang-de-ba-ge-mo-kuai.md)
+* [选型表：九张表 + 三语言对照](hou-duan/hou-duan-xuan-xing-biao.md)
+* [后端决策 → 技术后果：映射表](hou-duan/hou-duan-jue-ce-ji-shu-hou-guo.md)
+* [后端岗的十二个通用坑](hou-duan/hou-duan-gang-de-shi-er-ge-keng.md)
+* [提问模板：架构、契约、验收](hou-duan/hou-duan-ti-wen-mu-ban.md)
 
 ## 看每个岗位时，问三个问题 ❓
 
