@@ -11,11 +11,11 @@
 [![AI 全栈](https://img.shields.io/badge/AI-全栈-2ea44f)](#)
 [![language](https://img.shields.io/badge/language-Chinese-2ea44f)](#)
 [![GitHub stars](https://img.shields.io/github/stars/haiqit/ai-fullstack-guide?style=social)](https://github.com/haiqit/ai-fullstack-guide)
-[![在线阅读](https://img.shields.io/badge/在线阅读-点击访问-1f6feb)](https://github.com/haiqit/ai-fullstack-guide)
+[![在线阅读](https://img.shields.io/badge/在线阅读-点击访问-1f6feb)](https://haiqit.gitbook.io/ai-fullstack-guide)
 
-[快速开始](#怎么读) · [教程大纲](#目录) · [更新日志](https://github.com/haiqit/ai-fullstack-guide/commits/main) · [加入社群](https://github.com/haiqit/ai-fullstack-guide/issues)
+[快速开始](#怎么读) · [教程大纲](#目录) · [更新日志](https://github.com/haiqit/ai-fullstack-guide/commits/main)
 
-📚 **在线阅读** → [GitBook](https://github.com/haiqit/ai-fullstack-guide)
+📚 **在线阅读** → [https://haiqit.gitbook.io/ai-fullstack-guide](https://haiqit.gitbook.io/ai-fullstack-guide)
 
 </div>
 
@@ -78,7 +78,7 @@
 - 🚧 **第五部分 · 项目开发**：开发流程、新项目、老项目
 - 🚧 **第六部分 · 项目实战**
 
-书稿在 `docs/ai-fullstack-guide/`，通过 GitBook 同步发布。
+书稿在 `docs/ai-fullstack-guide/`，通过 GitBook 同步发布，在线阅读地址见文首。
 
 ## 怎么读
 
