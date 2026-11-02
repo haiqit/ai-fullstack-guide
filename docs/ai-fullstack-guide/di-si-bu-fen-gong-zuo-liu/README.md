@@ -10,7 +10,7 @@ flowchart LR
 
 ## 本部分包含
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>💬</h3></td><td><strong>Vibe Coding</strong></td><td>快速探索、小工具、原型：适合不确定性高的阶段，不适合核心业务。</td><td><a href="vibe-coding.md">vibe-coding.md</a></td></tr><tr><td><h3>📝</h3></td><td><strong>SDD</strong></td><td>规格驱动开发：先把契约和验收标准写清楚，再让 AI 实现，可评审、可追溯。</td><td><a href="sdd.md">sdd.md</a></td></tr><tr><td><h3>🎛️</h3></td><td><strong>Harness</strong></td><td>围绕 AI 的工作台：上下文、工具、测试、审查、回滚，一样都不能少。</td><td><a href="harness.md">harness.md</a></td></tr><tr><td><h3>⭐</h3></td><td><strong>推荐</strong></td><td>按场景推荐工具组合，避免「什么都装一遍」。</td><td><a href="tui-jian/">tui-jian</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>💬</h3></td><td><strong>Vibe Coding</strong></td><td>快速探索、小工具、原型：适合不确定性高的阶段，不适合核心业务。</td><td><a href="vibe-coding.md">vibe-coding.md</a></td></tr><tr><td><h3>📝</h3></td><td><strong>SDD</strong></td><td>规格驱动开发：先把契约和验收标准写清楚，再让 AI 实现，可评审、可追溯。</td><td><a href="sdd.md">sdd.md</a></td></tr><tr><td><h3>🎛️</h3></td><td><strong>Harness</strong></td><td>围绕 AI 的工作台：上下文、工具、测试、审查、回滚，一样都不能少。</td><td><a href="harness/">harness</a></td></tr><tr><td><h3>⭐</h3></td><td><strong>推荐</strong></td><td>按场景推荐工具组合，避免「什么都装一遍」。</td><td><a href="tui-jian/">tui-jian</a></td></tr></tbody></table>
 
 ## 选哪种工作流 🤔
 
